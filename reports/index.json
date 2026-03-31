@@ -3,6 +3,30 @@
   "glassSurfaces": true,
   "entries": [
     {
+      "id": "20260331-213849-qvx0",
+      "title": "Kvashenaya Kapusta, Ukropnaya Voda",
+      "commanders": [
+        "Kvashenaya Kapusta",
+        "Ukropnaya Voda"
+      ],
+      "dateStart": "2026-03-31T20:38:49.000Z",
+      "dateEnd": "2026-03-31T22:49:04.000Z",
+      "dateLabel": "31/03/2026, 21:38:49 - 31/03/2026, 23:49:04",
+      "url": "https://ChromaticOrb.github.io/arcbridge/?report=20260331-213849-qvx0",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 23,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 21,
+        "avgEnemySize": 52
+      }
+    },
+    {
       "id": "20260331-213849-dykz",
       "title": "Kvashenaya Kapusta, Ukropnaya Voda",
       "commanders": [
