@@ -3,6 +3,34 @@
   "glassSurfaces": true,
   "entries": [
     {
+      "id": "20260403-210455-t87s",
+      "title": "Ukropnaya Voda",
+      "commanders": [
+        "Ukropnaya Voda"
+      ],
+      "dateStart": "2026-04-03T20:04:55.000Z",
+      "dateEnd": "2026-04-03T22:44:10.000Z",
+      "dateLabel": "03/04/2026, 21:04:55 - 03/04/2026, 23:44:10",
+      "url": "https://ChromaticOrb.github.io/arcbridge/?report=20260403-210455-t87s",
+      "summary": {
+        "borderlandsPct": 0.13793103448275862,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 25,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 4,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 19,
+        "avgEnemySize": 34
+      }
+    },
+    {
       "id": "20260401-222655-xi29",
       "title": "X E N O M O L O",
       "commanders": [
