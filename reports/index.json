@@ -3,6 +3,29 @@
   "glassSurfaces": true,
   "entries": [
     {
+      "id": "20260418-220057-n982",
+      "title": "Hell Brad",
+      "commanders": [
+        "Hell Brad"
+      ],
+      "dateStart": "2026-04-18T21:00:57.000Z",
+      "dateEnd": "2026-04-18T22:10:54.000Z",
+      "dateLabel": "18/04/2026, 22:00:57 - 18/04/2026, 23:10:54",
+      "url": "https://ChromaticOrb.github.io/axibridge/?report=20260418-220057-n982",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 11,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 15,
+        "avgEnemySize": 31
+      }
+    },
+    {
       "id": "20260411-213949-jc77",
       "title": "Unknown Commander",
       "commanders": [],
