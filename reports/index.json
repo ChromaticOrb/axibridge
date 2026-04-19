@@ -3,6 +3,29 @@
   "glassSurfaces": true,
   "entries": [
     {
+      "id": "20260418-222212-u6az",
+      "title": "Hell Brad",
+      "commanders": [
+        "Hell Brad"
+      ],
+      "dateStart": "2026-04-18T21:22:12.000Z",
+      "dateEnd": "2026-04-18T22:49:03.000Z",
+      "dateLabel": "18/04/2026, 22:22:12 - 18/04/2026, 23:49:03",
+      "url": "https://ChromaticOrb.github.io/axibridge/?report=20260418-222212-u6az",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 11,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 18,
+        "avgEnemySize": 31
+      }
+    },
+    {
       "id": "20260418-220057-n982",
       "title": "Hell Brad",
       "commanders": [
