@@ -3,6 +3,40 @@
   "glassSurfaces": true,
   "entries": [
     {
+      "id": "20260425-192953-8az1",
+      "title": "Chromatic Storm, Sonnen Moun",
+      "commanders": [
+        "Chromatic Storm",
+        "Sonnen Moun"
+      ],
+      "dateStart": "2026-04-25T18:29:53.000Z",
+      "dateEnd": "2026-04-25T22:09:01.000Z",
+      "dateLabel": "25/04/2026, 19:29:53 - 25/04/2026, 23:09:01",
+      "url": "https://ChromaticOrb.github.io/axibridge/?report=20260425-192953-8az1",
+      "summary": {
+        "borderlandsPct": 0.6666666666666666,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 5,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 5,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 5,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 16,
+        "avgEnemySize": 28
+      }
+    },
+    {
       "id": "20260424-214030-mbxi",
       "title": "Hell Brad",
       "commanders": [
